@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:se="http://www.opengis.net/se" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/StyledLayerDescriptor.xsd">
   <NamedLayer>
-    <se:Name>clase_vulnerabilidad_ssp1_rpc26_21_40</se:Name>
+    <se:Name>clase_vulnerabilidad_ssp1_rcp26_21_40</se:Name>
     <UserStyle>
-      <se:Name>clase_vulnerabilidad_ssp1_rpc26_21_40</se:Name>
+      <se:Name>clase_vulnerabilidad_ssp1_rcp26_21_40</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
           <se:Name>Muy bajo</se:Name>
@@ -12,7 +12,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rpc26_21_40</ogc:PropertyName>
+              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rcp26_21_40</ogc:PropertyName>
               <ogc:Literal>Muy bajo</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -35,7 +35,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rpc26_21_40</ogc:PropertyName>
+              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rcp26_21_40</ogc:PropertyName>
               <ogc:Literal>Bajo</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -58,7 +58,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rpc26_21_40</ogc:PropertyName>
+              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rcp26_21_40</ogc:PropertyName>
               <ogc:Literal>Medio</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -81,7 +81,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rpc26_21_40</ogc:PropertyName>
+              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rcp26_21_40</ogc:PropertyName>
               <ogc:Literal>Alto</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -104,7 +104,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rpc26_21_40</ogc:PropertyName>
+              <ogc:PropertyName>clase_vulnerabilidad_ssp1_rcp26_21_40</ogc:PropertyName>
               <ogc:Literal>Muy alto</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
